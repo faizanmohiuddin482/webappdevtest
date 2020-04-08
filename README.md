@@ -1,4 +1,4 @@
-# WEBMAPP#1!
+# WEBMAPP
 
 
 ## Setting up
