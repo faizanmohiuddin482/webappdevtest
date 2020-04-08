@@ -1,4 +1,4 @@
-# WEBMAPP
+# FAIZMAP
 
 
 ## Setting up
